@@ -1,0 +1,12 @@
+*.csv
+*.txt
+*.parquet
+*.png
+*.pickle
+*.zip
+*.docx
+*.ipynb_checkpoints*
+*.idea*
+*__pycache__*
+
+passwords.py
