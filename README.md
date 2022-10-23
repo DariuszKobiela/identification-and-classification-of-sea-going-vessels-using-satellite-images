@@ -86,8 +86,24 @@ Run. Wait a few minutes (pictures has big sizes - even 900 MB).
 
 ## AIS Data preprocessing
 1. Run python/jupyter script: "1_AIS_data_preprocessing.py". 
+2. Prepared AIS data should appear in the folder "4_processed_AIS_data". 
+
+## Check the work
+1. Go to QGIS. 
+2. Load the prepared AIS data as Layer/Add Layer/Add Delimeted Text Layer. 
+Check if in Point coordinates X field is LON and Y field is LAT. 
+3. Load the prepared AIS data as Layer/Add Layer/Add Raster Layer. 
+4. Loaded image has 2 bands: VV and VH. Create third band = VV/VH:
+- Raster/Raster calculator/???
 
 
+## Useful links.
+1. https://drr.ikcest.org/tutorial/k8022 - GDAL tutorial
+2. https://step.esa.int/main/download/snap-download/ - SNAP download
+3. https://github.com/senbox-org/ - SNAP
+4. https://snap-contrib.github.io/snapista/ - SNAPISTA, python snappy language
+5. https://snap.stanford.edu/snappy/ - SNAP.py - SNAP for python
+6. https://snap.stanford.edu/snappy/doc/tutorial/tutorial.html - SNAPPY tutorial
 
 
 
