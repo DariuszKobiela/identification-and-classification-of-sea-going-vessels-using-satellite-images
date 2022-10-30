@@ -86,7 +86,8 @@ Run. Wait a few minutes (pictures has big sizes - even 900 MB).
 
 ## AIS Data preprocessing
 1. Run python/jupyter script: "1_AIS_data_preprocessing.py". 
-2. Prepared AIS data should appear in the folder "4_processed_AIS_data". 
+2. Semi-processed data will be saved to the folder "4_processed_AIS_data".
+3. Prepared AIS data should appear in the folder "5_interpolated_AIS_data". 
 
 ## Check the work
 1. Go to QGIS. 
@@ -95,6 +96,8 @@ Check if in Point coordinates X field is LON and Y field is LAT.
 3. Load the prepared AIS data as Layer/Add Layer/Add Raster Layer. 
 4. Loaded image has 2 bands: VV and VH. Create third band = VV/VH:
 - Raster/Raster calculator/???
+5. Load AIS data into QGIS. Layer/Add Layer/Add Delimited Text Layer. 
+Make sure that "X_field" is "LON" and "Y_field" is "LAT". 
 
 
 ## Useful links.
@@ -104,6 +107,7 @@ Check if in Point coordinates X field is LON and Y field is LAT.
 4. https://snap-contrib.github.io/snapista/ - SNAPISTA, python snappy language
 5. https://snap.stanford.edu/snappy/ - SNAP.py - SNAP for python
 6. https://snap.stanford.edu/snappy/doc/tutorial/tutorial.html - SNAPPY tutorial
+7. https://blog.paperspace.com/train-yolov5-custom-data/ - YOLO network
 
 
 
