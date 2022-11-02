@@ -108,6 +108,7 @@ Make sure that "X_field" is "LON" and "Y_field" is "LAT".
 6. https://www.youtube.com/watch?v=p0nR2YsCY_U
 7. https://github.com/heartexlabs/label-studio
 8. https://labelstud.io/guide/label_studio_compare.html
+9. https://www.youtube.com/watch?v=e1yJZUp0590
 
 ## Useful links.
 1. https://drr.ikcest.org/tutorial/k8022 - GDAL tutorial
