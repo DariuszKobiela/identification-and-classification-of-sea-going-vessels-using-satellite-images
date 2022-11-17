@@ -109,6 +109,8 @@ Make sure that "X_field" is "LON" and "Y_field" is "LAT".
 7. https://github.com/heartexlabs/label-studio
 8. https://labelstud.io/guide/label_studio_compare.html
 9. https://www.youtube.com/watch?v=e1yJZUp0590
+10. https://labelstud.io/tags/image.html
+11. https://cornelliusyudhawijaya.medium.com/innovative-data-labeling-projects-with-label-studio-and-dagshub-99c327f357e5
 
 ## Useful links.
 1. https://drr.ikcest.org/tutorial/k8022 - GDAL tutorial
@@ -134,6 +136,7 @@ Make sure that "X_field" is "LON" and "Y_field" is "LAT".
 11. https://learnopencv.com/fine-tuning-yolov7-on-custom-dataset/
 12. https://www.kaggle.com/code/aruchomu/yolo-v3-object-detection-in-tensorflow
 13. https://wellsr.com/python/object-detection-from-images-with-yolo/
+14. https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784
 
 ## Links for COCO dataset
 1. https://github.com/cocodataset/cocoapi/tree/master/PythonAPI
