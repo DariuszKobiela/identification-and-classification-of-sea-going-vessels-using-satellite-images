@@ -7,5 +7,6 @@
 *.ipynb_checkpoints*
 *.idea*
 *__pycache__*
+*.tif.aux.xml
 
 passwords.py
