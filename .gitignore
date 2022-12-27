@@ -8,5 +8,7 @@
 *.idea*
 *__pycache__*
 *.tif.aux.xml
+supplementary_materials/
+7_YOLO_boxes_visualisation/*
 
 passwords.py
