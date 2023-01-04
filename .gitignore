@@ -1,6 +1,8 @@
 *.parquet
 *.tif
 *.tiff
+*.png
+*.png.aux.xml
 *.pickle
 *.zip
 *.docx
@@ -10,5 +12,10 @@
 *.tif.aux.xml
 supplementary_materials/
 7_YOLO_boxes_visualisation/*
-
+notebooks/yolov3/*
+notebooks/yolov5/*
+image_object_slicer/
+image_object_slicer/*
+notebooks/datasets/
+notebooks/datasets/*
 passwords.py
