@@ -19,8 +19,8 @@ image_object_slicer/
 image_object_slicer/*
 notebooks/datasets/
 notebooks/datasets/*
-noteboks/PyTorch-YOLOv3/
-noteboks/PyTorch-YOLOv3/*
-noteboks/TheCodingBug/
-noteboks/TheCodingBug/*
+notebooks/PyTorch-YOLOv3/
+notebooks/PyTorch-YOLOv3/*
+notebooks/TheCodingBug/
+notebooks/TheCodingBug/*
 passwords.py
