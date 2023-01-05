@@ -2,7 +2,9 @@
 *.tif
 *.tiff
 *.png
+*.jpg
 *.png.aux.xml
+*.jpg.aux.xml
 *.txt
 *.pickle
 *.zip
