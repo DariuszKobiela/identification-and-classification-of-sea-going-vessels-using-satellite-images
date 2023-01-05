@@ -14,7 +14,11 @@
 *__pycache__*
 *.tif.aux.xml
 supplementary_materials/
-7_YOLO_boxes_visualisation/*
+data/7_YOLO_boxes_visualisation/*
+data/7_final_dataset/
+data/8_final_dataset_second_version/
+data/7_final_dataset/*
+data/8_final_dataset_second_version/*
 notebooks/yolov3/*
 notebooks/yolov5/*
 image_object_slicer/
