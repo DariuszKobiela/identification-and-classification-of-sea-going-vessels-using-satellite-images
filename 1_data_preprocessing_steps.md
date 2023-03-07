@@ -33,7 +33,7 @@ ZIP file should be put in the "0_raw_AIS_zip_data" folder.
 
 
 ## ASF Data preprocessing
-1. Use tool: SNAP ->  https://step.esa.int/main/download/snap-download/
+1. Use tool: SNAP ->  https://step.esa.int/main/download/snap-download/ (Sentinel Toolboxes, Main download)
 https://step.esa.int/main/toolboxes/snap/
 
 2. Load ZIP file of the chosen area (drag-and-drop). 
