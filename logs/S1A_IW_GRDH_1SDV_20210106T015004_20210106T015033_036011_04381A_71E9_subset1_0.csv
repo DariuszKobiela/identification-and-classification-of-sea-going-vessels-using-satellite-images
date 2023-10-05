@@ -1,0 +1,2 @@
+,MMSI,BaseDateTime,LAT,LON,SOG,COG,Heading,VesselName,IMO,CallSign,VesselType,Status,Length,Width,Draft,Cargo,TranscieverClass,LONpx_X2,LATpx_Y2
+0,338182754,2021-01-06 01:50:18.500,33.8277288372093,-118.40978751937983,0.2,82.4,511.0,HERMOND,,,37.0,,7.0,,,,B,49,65

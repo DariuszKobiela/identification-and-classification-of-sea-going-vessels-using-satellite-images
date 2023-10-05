@@ -1,0 +1,2 @@
+,MMSI,BaseDateTime,LAT,LON,SOG,COG,Heading,VesselName,IMO,CallSign,VesselType,Status,Length,Width,Draft,Cargo,TranscieverClass,LONpx_X2,LATpx_Y2
+0,367006770,2022-04-07 13:52:55.500,33.5657777669905,-118.0821406796118,5.6,144.9,147.0,ROBYN J,,WTQ4065,90.0,0.0,32.0,7.0,,32.0,A,122,167

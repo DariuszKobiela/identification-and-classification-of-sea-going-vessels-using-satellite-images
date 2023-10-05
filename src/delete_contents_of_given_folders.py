@@ -1,0 +1,18 @@
+import glob
+import os
+import shutil
+
+from src.constants import FINAL_DATA_PATH, SLICED_AND_ANNOTATED_ASF_DATA_PATH, INTERPOLATED_AIS_DATA_PATH, PROCESSED_AIS_DATA_PATH, \
+    SLICED_ASF_DATA_PATH, RGB_PNG_ASF_DATA_PATH, RESCALED_INTENSITY_ASF_DATA_PATH, NANS_TO_ZEROS_ASF_DATA_PATH, \
+    SNAP_PREPROCESSED_ASF_DATA_3_CHANNELS_PATH, SNAP_PREPROCESSED_ASF_DATA_2_CHANNELS_PATH
+from src.utils import delete_contents_of_the_given_folders
+
+# paths = [FINAL_DATA_PATH, SLICED_AND_ANNOTATED_ASF_DATA_PATH, INTERPOLATED_AIS_DATA_PATH, PROCESSED_AIS_DATA_PATH,
+#          SLICED_ASF_DATA_PATH, RGB_PNG_ASF_DATA_PATH, RESCALED_INTENSITY_ASF_DATA_PATH, NANS_TO_ZEROS_ASF_DATA_PATH,
+#          SNAP_PREPROCESSED_ASF_DATA_3_CHANNELS_PATH, SNAP_PREPROCESSED_ASF_DATA_2_CHANNELS_PATH]
+
+paths = [FINAL_DATA_PATH, SLICED_AND_ANNOTATED_ASF_DATA_PATH]
+
+for path in paths:
+    # delete_contents_of_the_given_folders(path, recursive=True, pattern='txt')  # only delete txt files
+    delete_contents_of_the_given_folders(path, recursive=True, pattern='all')

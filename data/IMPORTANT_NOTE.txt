@@ -1,0 +1,3 @@
+Length of pictures in folder "processed ASF data" can't be too long - then the program do not work. 
+But you can't change the original nam. It should contain 15 chars, as the example: 
+S1A_IW_GRDH_1SDV_20210106T015004_20210106T015033_036011_04381A_71E9_TC

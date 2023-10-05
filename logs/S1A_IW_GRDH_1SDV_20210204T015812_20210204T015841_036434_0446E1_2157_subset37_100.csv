@@ -1,0 +1,2 @@
+,MMSI,BaseDateTime,LAT,LON,SOG,COG,Heading,VesselName,IMO,CallSign,VesselType,Status,Length,Width,Draft,Cargo,TranscieverClass,LONpx_X2,LATpx_Y2
+0,338369179,2021-02-04 01:58:26.500,33.80323,-118.30975,0.0,22.2,511.0,REEL CRAZY,IMO0000000,,37.0,,8.0,3.0,,,B,212,122

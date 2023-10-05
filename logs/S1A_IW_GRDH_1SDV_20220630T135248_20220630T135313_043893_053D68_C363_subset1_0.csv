@@ -1,0 +1,2 @@
+,MMSI,BaseDateTime,LAT,LON,SOG,COG,Heading,VesselName,IMO,CallSign,VesselType,Status,Length,Width,Draft,Cargo,TranscieverClass,LONpx_X2,LATpx_Y2
+0,367678850,2022-06-30 13:53:00.500,33.89496,-118.45695,1.2,252.0,237.0,LELA FRANCO,IMO9747821,WDI2504,31.0,5.0,24.0,,,90.0,A,108,23
