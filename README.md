@@ -1,4 +1,4 @@
-#identification-and-classification-of-sea-going-vessels-using-satellite-images
+# identification-and-classification-of-sea-going-vessels-using-satellite-images
 
 The aim of this study was to analyze the possibility of using machine learning and computer vision to identify (indicate the location) of all sea-going vessels located in the selected area of the open sea and to classify the main attributes of the vessel. 
 The key elements of the project were to download data from the Sentinel-1 satellite, download AIS data on the sea vessels, then automatically tag data and develop a detection and classification algorithm. 
@@ -17,10 +17,10 @@ Preprocessing was done in order to improve the classification results, however, 
 Last reason is connected with the division into 5 classes based on Length attibute. It was done using k-means clustering, but the boundaries between classes were not sharp, rather smooth. 
 Thus, the differences between classes were more difficult to distinguish for the model leading to mistakes in the classification process.
 
-This research was carried out by D. Kobiela and T. Berezowski[[1]](#1) for the conference IGARSS 2023.
-Reasearch poster with the summary of the performed work can be seen in the [research project poster](POSTER IGARSS 2023.pdf).
+This research was carried out by D. Kobiela and T. Berezowski [[1]](#1) for the conference IGARSS 2023.
+Reasearch poster with the summary of the performed work can be seen in the [research project poster](POSTER_IGARSS_2023.pdf).
 
-![research project poster](POSTER IGARSS 2023.png)
+![research project poster](POSTER_IGARSS_2023.png)
 
 ## References
 <a id="1">[1]</a> 
