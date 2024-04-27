@@ -24,9 +24,8 @@ Reasearch poster with the summary of the performed work can be seen in the [rese
 
 ## References
 <a id="1">[1]</a> 
-Dariusz Kobiela, Tomasz Berezowski. 
-Classification of sea going vessels properties using SAR satellite images. 
-IEEE Geoscience and Remote Sensing Society and the IGARSS 2023 conference.  
-https://2023.ieeeigarss.org/.
+D. Kobiela and T. Berezowski, "Classification of Sea Going Vessels Properties Using SAR Satellite Images," IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023, pp. 7062-7065, doi: 10.1109/IGARSS52108.2023.10283395.
+
+
 
 
